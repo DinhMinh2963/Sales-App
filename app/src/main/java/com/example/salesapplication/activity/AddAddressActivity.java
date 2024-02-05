@@ -27,9 +27,6 @@ public class AddAddressActivity extends AppCompatActivity {
     EditText name, address, city, postalCode, phoneNumber;
     //Toolbar toolbar;
     Button addAddressBtn;
-
-
-
     FirebaseFirestore firestore;
     FirebaseAuth auth;
     @Override
